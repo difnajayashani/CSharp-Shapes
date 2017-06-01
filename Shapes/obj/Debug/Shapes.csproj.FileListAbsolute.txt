@@ -1,0 +1,6 @@
+c:\users\hsenid\documents\visual studio 2017\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+c:\users\hsenid\documents\visual studio 2017\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\hSenid\Documents\Visual Studio 2017\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\hSenid\Documents\Visual Studio 2017\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\hSenid\Documents\Visual Studio 2017\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\hSenid\Documents\Visual Studio 2017\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
